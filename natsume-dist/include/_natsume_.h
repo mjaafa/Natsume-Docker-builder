@@ -1,0 +1,10 @@
+#ifndef _NATSUME__H
+#define _NATSUME__H
+
+#define NATSUME_VERSION_MAJOR 
+#define NATSUME_VERSION_MINOR 
+
+#define GENRERATE_BINARY
+#define GENRERATE_LIBS
+
+#endif /* !_NATSUME__H*/
