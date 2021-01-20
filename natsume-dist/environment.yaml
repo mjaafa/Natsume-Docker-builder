@@ -21,4 +21,26 @@ dependencies:
   - wheel=0.36.2=pyhd3eb1b0_0
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - appdirs==1.4.4
+    - buildozer==1.2.0
+    - chardet==4.0.0
+    - distlib==0.3.1
+    - docutils==0.16
+    - filelock==3.0.12
+    - idna==2.10
+    - importlib-metadata==3.4.0
+    - importlib-resources==5.1.0
+    - kivy==2.0.0
+    - kivy-garden==0.1.4
+    - pexpect==4.8.0
+    - ptyprocess==0.7.0
+    - pygments==2.7.4
+    - requests==2.25.1
+    - sh==1.14.1
+    - six==1.15.0
+    - typing-extensions==3.7.4.3
+    - urllib3==1.26.2
+    - virtualenv==20.4.0
+    - zipp==3.4.0
 prefix: /home/jmo/anaconda3/envs/py
