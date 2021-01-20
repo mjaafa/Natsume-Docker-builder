@@ -5,7 +5,7 @@ __Natsume__ is a Cloud build based for docker generation from several environmen
 <br/>
 <br/>
 <br/>
-![Docker builder from json and yml environment file ](environmentyml.gif)
+![Docker builder from json and yml environment file ](media/environmentyml.gif)
 <br/>
 <br/>
 <br/>
@@ -13,7 +13,7 @@ The `Json file` holds The docker definition and pre and post docker image build.
 <br/>
 <br/>
 <br/>
-![Json environment file](json.gif)
+![Json environment file](media/json.gif)
 <br/>
 <br/>
 <br/>
@@ -23,7 +23,7 @@ The image is built and added to the local repository and then executed automatic
 <br/>
 <br/>
 <br/>
-![Docker builder from json and yml environment file ](out.gif)
+![Docker builder from json and yml environment file ](media/out.gif)
 
 ## Natsume delivery :
 __Natsume__ uses secured TLS connection with the server to retrieve the json file and learn about the building process.
