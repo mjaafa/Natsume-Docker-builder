@@ -2,6 +2,7 @@
 
 ## Natsume Presentation  :
 __Natsume__ is a Cloud build based for docker generation from several environment : `conda` , `anaconda` and `pip` based :
+![Docker Chart](media/Natsume_chart.png)
 <br/>
 <br/>
 <br/>
