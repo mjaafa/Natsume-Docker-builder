@@ -286,7 +286,6 @@ dependencies:
     - buildozer==0.31
     - export==0.1.2
     - minimalmodbus==0.7
-    - jnius==1.1.0
     - pbr==5.2.1
     - pep517==0.5.0
     - pip==19.1.1
