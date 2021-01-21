@@ -282,12 +282,12 @@ dependencies:
     - brew-cron==0.1
     - brew-tools==0.2.1
     - brewer==0.5.1
+    - cython-setuptools==0.2.3
     - buildozer==0.31
     - export==0.1.2
     - minimalmodbus==0.7
     - jnius==1.1.0
     - pbr==5.2.1
-    - cython-setuptools==0.2.3
     - pep517==0.5.0
     - pip==19.1.1
     - pyserial==3.4
