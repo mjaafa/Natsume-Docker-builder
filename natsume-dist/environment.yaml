@@ -289,9 +289,6 @@ dependencies:
     - pbr==5.2.1
     - pep517==0.5.0
     - pip==20.2.4
-    - Cython==0.29.21
-    - jnius==1.1.0
-    - buildozer==1.2.0
     - pyserial==3.4
     - pytoml==0.1.20
     - sh==1.12.4
@@ -300,5 +297,8 @@ dependencies:
     - virtualenv==16.6.0
     - virtualenv-clone==0.5.3
     - virtualenvwrapper==4.8.4
+    - Cython==0.29.21
+    - jnius==1.1.0
+    - buildozer==1.2.0
 prefix: /home/blade/anaconda3/envs/conda-env-buildozer-android7
 
