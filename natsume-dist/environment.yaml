@@ -127,7 +127,6 @@ dependencies:
   - pycosat=0.6.3=py37h14c3975_0
   - pycparser=2.19=py37_0
   - pycrypto=2.6.1=py37h14c3975_9
-  - pycurl=7.43.0.2=py37h1ba5d50_0
   - pyflakes=2.1.1=py37_0
   - pygments=2.3.1=py37_0
   - pylint=2.3.1=py37_0
