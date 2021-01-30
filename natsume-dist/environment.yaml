@@ -24,7 +24,7 @@ dependencies:
   - bkcharts=0.2=py37_0
   - blas=1.0=mkl
   - bleach=3.1.0=py37_0
-  - blosc=1.15.0=hd408876_0
+  - blosc1=1.15.0=hd408876_0
   - bokeh=1.0.4=py37_0
   - boto=2.49.0=py37_0
   - bottleneck=1.2.1=py37h035aef0_1
