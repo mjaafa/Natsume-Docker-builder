@@ -130,7 +130,6 @@ dependencies:
   - pyflakes=2.1.1=py37_0
   - pygments=2.3.1=py37_0
   - pylint=2.3.1=py37_0
-  - pyodbc=4.0.26=py37he6710b0_0
   - pyopenssl=19.0.0=py37_0
   - pyparsing=2.3.1=py37_0
   - pyrsistent=0.14.11=py37h7b6447c_0
