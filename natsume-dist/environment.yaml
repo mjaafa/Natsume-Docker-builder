@@ -177,6 +177,7 @@ dependencies:
   - zipp=0.3.3=py37_1
   - pip:
     - appdirs==1.4.3
+    - cython==0.29.15
     - brew-cron==0.1
     - brew-tools==0.2.1
     - brewer==0.5.1
@@ -194,7 +195,6 @@ dependencies:
     - toml==0.10.2
     - virtualenv==16.6.0
     - virtualenvwrapper==4.8.4
-    - cython==0.29.15
     - jnius==1.1.0
     - buildozer==1.2.0
 prefix: /home/blade/anaconda3/envs/conda-env-buildozer-android7
